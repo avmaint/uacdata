@@ -1,0 +1,344 @@
+[
+  {
+    "category": "Projector",
+    "device_name": "East",
+    "name": "ip",
+    "value": "192.168.0.194",
+    "instance": "1"
+  },
+  {
+    "category": "Projector",
+    "device_name": "East",
+    "name": "port",
+    "value": "4352",
+    "instance": "1"
+  },
+  {
+    "category": "Projector",
+    "device_name": "Centre",
+    "name": "ip",
+    "value": "192.168.0.193",
+    "instance": "1"
+  },
+  {
+    "category": "Projector",
+    "device_name": "Centre",
+    "name": "port",
+    "value": "4352",
+    "instance": "1"
+  },
+  {
+    "category": "Projector",
+    "device_name": "West",
+    "name": "ip",
+    "value": "192.168.0.195",
+    "instance": "1"
+  },
+  {
+    "category": "Projector",
+    "device_name": "West",
+    "name": "port",
+    "value": "4352",
+    "instance": "1"
+  },
+  {
+    "category": "Projector",
+    "device_name": "Rear",
+    "name": "ip",
+    "value": "192.168.0.183",
+    "instance": "1"
+  },
+  {
+    "category": "Projector",
+    "device_name": "Rear",
+    "name": "port",
+    "value": "4352",
+    "instance": "1"
+  },
+  {
+    "category": "ProPresenter",
+    "device_name": "PP7",
+    "name": "ip",
+    "value": "192.168.0.210",
+    "instance": "1"
+  },
+  {
+    "category": "ProPresenter",
+    "device_name": "PP7",
+    "name": "port",
+    "value": "1025",
+    "instance": "1"
+  },
+  {
+    "category": "ProPresenter",
+    "device_name": "PP7",
+    "name": "url",
+    "value": "http://192.168.140.1:1025/v1/control/",
+    "instance": "1"
+  },
+  {
+    "category": "Lights",
+    "device_name": "Lights",
+    "name": "ip",
+    "value": "192.168.0.197",
+    "instance": "1"
+  },
+  {
+    "category": "Lights",
+    "device_name": "Lights",
+    "name": "port",
+    "value": "8005",
+    "instance": "1"
+  },
+  {
+    "category": "Cameras",
+    "device_name": "Cam 1",
+    "name": "ip",
+    "value": "192.168.0.186",
+    "instance": "1"
+  },
+  {
+    "category": "Cameras",
+    "device_name": "Cam 2",
+    "name": "ip",
+    "value": "192.168.0.187",
+    "instance": "1"
+  },
+  {
+    "category": "Cameras",
+    "device_name": "Cam 3",
+    "name": "ip",
+    "value": "192.168.0.188",
+    "instance": "1"
+  },
+  {
+    "category": "Video Mixer",
+    "device_name": "ATEM",
+    "name": "ip",
+    "value": "192.168.0.191",
+    "instance": "1"
+  },
+  {
+    "category": "Video Mixer",
+    "device_name": "ATEM",
+    "name": "comment",
+    "value": "Reference only-hardcoded config",
+    "instance": "1"
+  },
+  {
+    "category": "Control",
+    "device_name": "CueCommmander UI",
+    "name": "ip",
+    "value": "192.168.0.145",
+    "instance": "1"
+  },
+  {
+    "category": "Control",
+    "device_name": "CueCommmander UI",
+    "name": "port",
+    "value": "1880",
+    "instance": "1"
+  },
+  {
+    "category": "Control",
+    "device_name": "CueCommmander UI",
+    "name": "url",
+    "value": "http://192.168.0.145:1880/ui",
+    "instance": "1"
+  },
+  {
+    "category": "Control",
+    "device_name": "CueCommmander UI",
+    "name": "comment",
+    "value": "Reference only. Hardcoded config",
+    "instance": "1"
+  },
+  {
+    "category": "Control",
+    "device_name": "OSC to VISCAip",
+    "name": "ip",
+    "value": "127.0.0.1",
+    "instance": "1"
+  },
+  {
+    "category": "Control",
+    "device_name": "OSC to VISCAip",
+    "name": "port",
+    "value": "54000",
+    "instance": "1"
+  },
+  {
+    "category": "Control",
+    "device_name": "OSC to VISCAip",
+    "name": "comment",
+    "value": "Reference only. Hardcoded config",
+    "instance": "1"
+  },
+
+  {
+    "category": "Reaper",
+    "device_name": "Reaper",
+    "name": "ip",
+    "value": "192.168.200.10",
+    "instance": "1"
+  },
+  {
+    "category": "Reaper",
+    "device_name": "Reaper",
+    "name": "port",
+    "value": "8000",
+    "instance": "1"
+  },
+  {
+    "category": "Klang",
+    "device_name": "Konductor",
+    "name": "ip",
+    "value": "192.168.200.146",
+    "instance": "1"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Konductor",
+    "name": "port",
+    "value": "9110",
+    "instance": "1"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "port",
+    "value": "9111",
+    "instance": "*"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14510.local",
+    "instance": "1"
+  },
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14511.local",
+    "instance": "11"
+  },
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14512.local",
+    "instance": "2"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14513.local",
+    "instance": "2"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14507.local",
+    "instance": "5"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14415.local",
+    "instance": "6"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14506.local",
+    "instance": "7"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14070.local",
+    "instance": "8"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14072.local",
+    "instance": "9"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14514.local",
+    "instance": "10"
+  },
+
+  {
+    "category": "Klang",
+    "device_name": "Kontroller",
+    "name": "ip",
+    "value": "KRB14486.local",
+    "instance": "11"
+  },
+
+  {
+    "category": "dLive",
+    "device_name": "MixRack",
+    "name": "ip",
+    "value": "192.168.200.70",
+    "instance": "1"
+  },
+  {
+    "category": "dLive",
+    "device_name": "MixRack",
+    "name": "port",
+    "value": "51325",
+    "instance": "1"
+  },
+  {
+    "category": "WirelessMics",
+    "device_name": "ZAMU-B003",
+    "name": "ip",
+    "value": "192.168.200.176",
+    "instance": "4"
+  },
+  {
+    "category": "WirelessMics",
+    "device_name": "ZAMU-B002",
+    "name": "ip",
+    "value": "192.168.200.175",
+    "instance": "3"
+  },
+  {
+    "category": "WirelessMics",
+    "device_name": "ZAMU-B001",
+    "name": "ip",
+    "value": "192.168.200.174",
+    "instance": "2"
+  },
+  {
+    "category": "WirelessMics",
+    "device_name": "ZAMU-A001",
+    "name": "ip",
+    "value": "192.168.200.177",
+    "instance": "1"
+  }
+]
