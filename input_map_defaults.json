@@ -81,30 +81,6 @@
   },
 
   {
-    "mic_name": "BP01",
-    "reaper_channel": 99,
-    "klang_channel": 91,
-    "dlive_channel": 99,
-    "vocal_name": "Daniel"
-  },
-
-  {
-    "mic_name": "BP02",
-    "reaper_channel": 99,
-    "klang_channel": 92,
-    "dlive_channel": 99,
-    "vocal_name": "Speaker BP02"
-  },
-
-  {
-    "mic_name": "BP03",
-    "reaper_channel": 99,
-    "klang_channel": 93,
-    "dlive_channel": 99,
-    "vocal_name": "Speaker BP03"
-  },
-
-  {
     "mic_name": "BP06",
     "reaper_channel": 99,
     "klang_channel": 96,
