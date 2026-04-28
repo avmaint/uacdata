@@ -2,7 +2,7 @@
   {
     "mic_name": "HH01",
     "reaper_channel": 46,
-    "klang_channel": 31,
+    "klang_channel": 81,
     "dlive_channel": 81,
     "vocal_name": "Colin",
     "shure": { "ip": "192.168.0.177", "ch": 1 }
@@ -10,7 +10,7 @@
   {
     "mic_name": "HH02",
     "reaper_channel": 47,
-    "klang_channel": 32,
+    "klang_channel": 82,
     "dlive_channel": 82,
     "vocal_name": "Brandy",
     "shure": { "ip": "192.168.0.177", "ch": 2 }
@@ -18,7 +18,7 @@
   {
     "mic_name": "HH03",
     "reaper_channel": 48,
-    "klang_channel": 33,
+    "klang_channel": 83,
     "dlive_channel": 83,
     "vocal_name": "Val",
     "shure": { "ip": "192.168.0.177", "ch": 3 }
@@ -26,7 +26,7 @@
   {
     "mic_name": "HH04",
     "reaper_channel": 49,
-    "klang_channel": 34,
+    "klang_channel": 84,
     "dlive_channel": 84,
     "vocal_name": "Kesha",
     "shure": { "ip": "192.168.0.177", "ch": 4 }
@@ -34,7 +34,7 @@
   {
     "mic_name": "HH05",
     "reaper_channel": 50,
-    "klang_channel": 35,
+    "klang_channel": 85,
     "dlive_channel": 85,
     "vocal_name": "Binu",
     "shure": { "ip": "192.168.0.174", "ch": 1 }
@@ -42,7 +42,7 @@
   {
     "mic_name": "HH06",
     "reaper_channel": 51,
-    "klang_channel": 36,
+    "klang_channel": 86,
     "dlive_channel": 86,
     "vocal_name": "Nolly",
     "shure": { "ip": "192.168.0.174", "ch": 2 }
@@ -50,7 +50,7 @@
   {
     "mic_name": "HH07",
     "reaper_channel": 52,
-    "klang_channel": 37,
+    "klang_channel": 87,
     "dlive_channel": 87,
     "vocal_name": "Mel",
     "shure": { "ip": "192.168.0.174", "ch": 3 }
@@ -58,7 +58,7 @@
   {
     "mic_name": "HH08",
     "reaper_channel": 53,
-    "klang_channel": 38,
+    "klang_channel": 88,
     "dlive_channel": 88,
     "vocal_name": "RSharon",
     "shure": { "ip": "192.168.0.174", "ch": 4 }
@@ -66,7 +66,7 @@
   {
     "mic_name": "HH09",
     "reaper_channel": 54,
-    "klang_channel": 39,
+    "klang_channel": 89,
     "dlive_channel": 89,
     "vocal_name": "Keith",
     "shure": { "ip": "192.168.0.175", "ch": 1 }
@@ -74,7 +74,7 @@
   {
     "mic_name": "HH10",
     "reaper_channel": 55,
-    "klang_channel": 40,
+    "klang_channel": 90,
     "dlive_channel": 90,
     "vocal_name": "Ethan",
     "shure": { "ip": "192.168.0.175", "ch": 2 }
