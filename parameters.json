@@ -317,28 +317,28 @@
     "category": "WirelessMics",
     "device_name": "ZAMU-B003",
     "name": "ip",
-    "value": "192.168.200.176",
+    "value": "192.168.200.153",
     "instance": "4"
   },
   {
     "category": "WirelessMics",
     "device_name": "ZAMU-B002",
     "name": "ip",
-    "value": "192.168.200.175",
+    "value": "192.168.200.152",
     "instance": "3"
   },
   {
     "category": "WirelessMics",
     "device_name": "ZAMU-B001",
     "name": "ip",
-    "value": "192.168.200.174",
+    "value": "192.168.200.151",
     "instance": "2"
   },
   {
     "category": "WirelessMics",
     "device_name": "ZAMU-A001",
     "name": "ip",
-    "value": "192.168.200.177",
+    "value": "192.168.200.150",
     "instance": "1"
   }
 ]
